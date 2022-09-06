@@ -579,7 +579,7 @@ function install_vimplus_on_mac()
     install_prepare_software_on_mac
     copy_files
     install_fonts_on_mac
-    install_ycm
+    # install_ycm
     install_vim_plugin
     print_logo
 }
